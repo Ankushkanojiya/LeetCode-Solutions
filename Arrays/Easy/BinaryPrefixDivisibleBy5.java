@@ -8,7 +8,6 @@ public class BinaryPrefixDivisibleBy5 {
     }
     public static List<Boolean> prefixesDivBy5(int[] nums){
         List<Boolean> answers=new ArrayList<>();
-        int n=nums.length;
         int number=0;
         for (int num : nums) {
             number=(number * 2 + num) % 5;
