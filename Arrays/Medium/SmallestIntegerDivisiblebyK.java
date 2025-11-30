@@ -1,3 +1,4 @@
+package Arrays.Medium;
 public class SmallestIntegerDivisiblebyK {
     public static void main(String[] args) {
         int k=3;

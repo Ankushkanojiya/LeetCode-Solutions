@@ -1,3 +1,4 @@
+package Arrays.Easy;
 import java.util.HashSet;
 
 public class KeepMultiplyingFoundValues {

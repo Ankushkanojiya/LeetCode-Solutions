@@ -1,3 +1,4 @@
+package Arrays.Easy;
 public class RemoveDuplictesSorted_26 {
 
     public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package Arrays.Sorting;
 public class InsertionSort {
     public static void main(String[] args) {
         int[] nums={3,2,5,1,8,6};
